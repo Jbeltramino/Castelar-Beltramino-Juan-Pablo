@@ -152,9 +152,9 @@ table, tr, th, td {
     height: 70px;
     line-height: 70px;
     color: #fff;
-    /*position: absolute;
+    position: relative;
     bottom: 0;
-    overflow: hidden;*/
+    overflow: hidden;
 }
 
     #footer p {
