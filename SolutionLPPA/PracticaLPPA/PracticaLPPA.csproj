@@ -120,6 +120,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\EjerciciosCSSController.cs" />
+    <Compile Include="Controllers\EjerciciosHTMLController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -131,6 +133,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\styles.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -162,6 +165,19 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Index.cshtml" />
+    <Content Include="Views\EjerciciosCSS\Index.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Ejercicio1.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Ejercicio2.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Ejercicio3.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Ejercicio4.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Enlaces.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Listas.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Tabla1.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Tabla2.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Formularios1.cshtml" />
+    <Content Include="Views\EjerciciosHTML\Formularios2.cshtml" />
+    <Content Include="Views\EjerciciosHTML\FormulariosHTML5.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
