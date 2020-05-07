@@ -6,16 +6,12 @@ using System.Web.Mvc;
 
 namespace HTML.WebSite.Controllers
 {
-    public class HomeController : Controller
+    public class EjerciciosController : Controller
     {
-        // GET: Home
-        public ActionResult Index()
+        // GET: Ejercicios
+        public ActionResult Ejercicio1()
         {
             return View();
         }
-        //public ActionResult EjerciciosHtml()
-        //{
-        //    return View();
-        //}
     }
 }
