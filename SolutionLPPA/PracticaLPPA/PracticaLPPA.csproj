@@ -133,6 +133,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\styleComoSeUsa3.css" />
     <Content Include="Content\css\styles.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -178,6 +179,14 @@
     <Content Include="Views\EjerciciosHTML\Formularios1.cshtml" />
     <Content Include="Views\EjerciciosHTML\Formularios2.cshtml" />
     <Content Include="Views\EjerciciosHTML\FormulariosHTML5.cshtml" />
+    <Content Include="Views\EjerciciosCSS\EjercicioComoSeUsa1.cshtml" />
+    <Content Include="Views\EjerciciosCSS\EjercicioComoSeUsa2.cshtml" />
+    <Content Include="Views\EjerciciosCSS\EjercicioComoSeUsa3.cshtml" />
+    <Content Include="Views\EjerciciosCSS\Selectores1.cshtml" />
+    <Content Include="Views\EjerciciosCSS\Selectores2.cshtml" />
+    <Content Include="Views\EjerciciosCSS\Selectores3.cshtml" />
+    <Content Include="Views\EjerciciosCSS\MaquetacionFijo.cshtml" />
+    <Content Include="Views\EjerciciosCSS\MaquetacionElastico.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

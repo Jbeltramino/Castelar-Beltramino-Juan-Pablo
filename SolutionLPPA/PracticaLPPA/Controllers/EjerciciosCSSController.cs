@@ -13,5 +13,40 @@ namespace PracticaLPPA.Controllers
         {
             return View();
         }
+
+        public ActionResult EjercicioComoSeUsa1()
+        {
+            return View();
+        }
+
+        public ActionResult EjercicioComoSeUsa2()
+        {
+            return View();
+        }
+
+        public ActionResult EjercicioComoSeUsa3()
+        {
+            return View();
+        }
+        public ActionResult Selectores1()
+        {
+            return View();
+        }
+        public ActionResult Selectores2()
+        {
+            return View();
+        }
+        public ActionResult Selectores3()
+        {
+            return View();
+        }
+        public ActionResult MaquetacionFijo()
+        {
+            return View();
+        }
+        public ActionResult MaquetacionElastico()
+        {
+            return View();
+        }
     }
 }
